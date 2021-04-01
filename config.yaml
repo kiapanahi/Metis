@@ -1,4 +1,6 @@
 baseURL: https://kiapanahirad.com/
 languageCode: en-us
 title: Kia's personal blog
-theme: "PaperMod"
+# theme: "PaperMod"
+# theme: "hugo-html5up-alpha"
+theme: ananke
